@@ -1,5 +1,5 @@
 # Ultimate Guitar Hack
-Download any Guitar Pro file, including Official and Blocked tabs
+Download any Guitar Pro file, including 'Official' and blocked/removed tabs
 
 ## Overview
 
