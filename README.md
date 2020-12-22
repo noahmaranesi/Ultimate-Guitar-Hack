@@ -1,4 +1,4 @@
-# ultimate-guitar-hack
+# Ultimate Guitar Hack
 Download any Guitar Pro file, including Official and Blocked tabs
 
 ## Overview
