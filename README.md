@@ -1,4 +1,6 @@
-(About 6–8 hours after publishing, I and several others can confirm that my method no longer works. I'm sorry to anyone who was wanting to download files!)
+**(About 6–8 hours after publishing, I and several others can confirm that my method no longer works. I'm sorry to anyone who was wanting to download files!)**
+
+---
 
 # Ultimate Guitar Hack
 Download any Guitar Pro file, including 'Official' and blocked/removed tabs
