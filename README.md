@@ -20,7 +20,7 @@ I copied the HTML from a Guitar Pro file that I was able to download and pasted 
 
 ## Why I am sharing this
 
-People take lots of valuable time wanting to help other musicians learn a song, for it only to be taken down due to "copyright", even though it's not a direct copy and it's ones own interruption of a song. The ~~artists~~ copyright holder/s that block tabs are my main motivation behind doing this. Some of these artists include: **Rage Against The Machine** (so much for being anti-corporation and anti-censorship), **Dethklok**, **David Bowie**, **Protest The Hero**, **Polyphia**, **August Burns Red**, **PUP**, **The Fall of Troy**, ***Owl City** and plenty more.
+People take lots of valuable time wanting to help other musicians learn a song, for it only to be taken down due to "copyright", even though it's not a direct copy and it's ones own interruption of a song. The ~~artists~~ copyright holder/s that block tabs are my main motivation behind doing this. Some of these artists include: **Rage Against The Machine** (so much for being anti-corporation and anti-censorship), **Dethklok**, **David Bowie**, **Protest The Hero**, **Polyphia**, **August Burns Red**, **PUP**, **The Fall of Troy**, **Owl City** and plenty more.
 
 As [EvandroJGC](https://www.ultimate-guitar.com/u/EvandroJGC) said on an [Ultimate Guitar news post a few years ago](https://www.ultimate-guitar.com/news/ug_news/thank_you_ug_community_you_helped_us_unblock_700_tabs_join_the_campaign_to_unblock_more.html#5139700):
 
