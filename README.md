@@ -14,7 +14,7 @@ This tool allows downloads on of the following interactive file from Ultimate Gu
 
 \* = Although advertised as "Official", these tabs are made and by the Ultimate Guitar team. They are the same readable formats as modern Guitar Pro (`.gp`, `.gpx`).
 
-\** = Tabs with [revoked licenses](https://www.ultimate-guitar.com/news/ug_news/here_is_why_you_see_ads_and_dont_have_access_to_ratm_tabs.html) (more [below](#Why)).
+\** = Tabs with [revoked licenses](https://www.ultimate-guitar.com/news/ug_news/here_is_why_you_see_ads_and_dont_have_access_to_ratm_tabs.html) (more [below](#why-i-am-sharing-this)).
 
 I copied the HTML from a Guitar Pro file that I was able to download and pasted it onto another tab, replaces some values, and now I'm able to download almost anything.
 
