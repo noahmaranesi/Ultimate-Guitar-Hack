@@ -28,75 +28,7 @@ As [EvandroJGC](https://www.ultimate-guitar.com/u/EvandroJGC) said on an [Ultima
 
 ## How to
 
-1. Open the desired tab (remember, it must be interactive: Official, or Guitar Pro)
-
-1. Copy the following code:
-    
-    ```html
-    <form action="https://tabs.ultimate-guitar.com/tab/download"><input type="hidden" name="id" value="TAB_ID_HERE"><button><span>Download Guitar Pro File</span></button></form>
-    ```
-
-    I removed all unnecessary code – styling – and changed a value – so it displays "**Download Guitar Pro File**" as a plain button. This code is not malicious, it's just inserting a button. If you have doubts, here is documentation for [form](https://www.w3schools.com/tags/tag_form.asp), [input](https://www.w3schools.com/tags/tag_input.asp), [button](https://www.w3schools.com/tags/tag_button.asp), and [span](https://www.w3schools.com/tags/tag_span.asp) HTML tags (see "Definition and Usage" section).
-
-1. Open Inspect Element in your browser. Sorry, yes, you need to most likely use a desktop operating system to perform this; I'm not aware of any mobile web browsers that allow for HTML code injection.
-
-1. Paste the code. It doesn't matter *where*, but where you paste it, that's where it's going to show. Therefore I recommend pasting after the `<head>` and before the `<body>` HTML tags. If you paste the code in the `<head>` tag, you won't see it. If you paste the code before the `<body>`, it will show at the top of the webpage. See below.
-
-    Before pasting:
-
-	```html
-	<!DOCTYPE html>
-	<html lang="en">
-		<head >…</head>
-		<body style="background-color: #111; margin: 0">…</body>
-	</html>
-	```
-
-    After pasting: 
-
-	```html
-	<!DOCTYPE html>
-	<html lang="en">
-		<head >…</head>
-		<form action="https://tabs.ultimate-guitar.com/tab/download">…</form>
-		<body style="background-color: #111; margin: 0">…</body>
-	</html>
-	```
-		
-		
-1. You may notice a "**Download Guitar Pro File**" button appear at the top of the webpage.
-
-1. Open up the `<form>` tag. You should now see the following:
-
-	```html
-	<!DOCTYPE html>
-	<html lang="en">
-	    <head >…</head>
-	    <form action="https://tabs.ultimate-guitar.com/tab/download">
-		    <input type="hidden" name="id" value="TAB_ID_HERE">
-		    <button>…</button>
-	    </form>
-	    <body style="background-color: #111; margin: 0">…</body>
-	</html>
-	```
-
-1. Edit "`TAB_ID_HERE`" to match the tab's unique ID. This can be found in the URL. For example, if you wanted to download the 'Official' tab "*Killing In The Name*" by Rage Against the Machine ([direct link](https://tabs.ultimate-guitar.com/tab/rage-against-the-machine/killing-in-the-name-official-2238297)), the tab ID is 2238297.
-
-1. Your HTML code should now look like this:
-
-	```html
-	<!DOCTYPE html>
-	<html lang="en">
-	    <head >…</head>
-	    <form action="https://tabs.ultimate-guitar.com/tab/download">
-		    <input type="hidden" name="id" value="2238297">
-		    <button>…</button>
-	    </form>
-	    <body style="background-color: #111; margin: 0">…</body>
-	</html>
-	```
-
-1. Click the "**Download Guitar Pro File**" button on the webpage. This will download a Guitar Pro 6 (`.gpx`) file, even with the artist and song name in the file title. This means, Guitar Pro 6 or Guitar Pro 7 is required. There are third-party tools that can convert `.gpx` files for more compatibility, such as `.gp3`, `.gp5` files.
+**This section is under-construction. We will be back shortly.**
 
 ## Troubleshooting
 
