@@ -28,10 +28,6 @@ As [EvandroJGC](https://www.ultimate-guitar.com/u/EvandroJGC) said on an [Ultima
 
 ## How to
 
-**This section is under-construction. We will be back shortly.**
+**This section is under-construction. When something is released, it will be pushed as a [Release](https://github.com/noahmaranesi/Ultimate-Guitar-Hack/releases).**
 
-## Troubleshooting
-
-**The page reloads when I click "Download Guitar Pro File"**
-
-Ensure your values are correct. The value in the HTML code must also match the page you're on, otherwise you'll be redirected.
+To be notified: Watch → Custom → Releases
